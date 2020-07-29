@@ -113,7 +113,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
     -o-transition: all 0.3s;
     transition: all 0.3s;
 }
-#abilities ul > li .ability-score .glyphicon.filled { color: #22A39F; }
+#abilities ul > li .ability-score .glyphicon.filled { color: #BA060C; }
 
 #abilities ul > li:hover .ability-score .glyphicon { margin-left: 2px; } 
 
